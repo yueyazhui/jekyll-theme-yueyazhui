@@ -1,6 +1,6 @@
 ---
 layout: redirect
-redirect_to: https://yueyazhui.top/_posts/2023-03-03-jekyll-theme-yueyazhui/
+redirect_to: https://wu-kan.cn/_posts/2020-02-22-jekyll-theme-WuK/
 redirect:
-  to: https://yueyazhui.top/_posts/2023-03-03-jekyll-theme-yueyazhui/
+  to: https://wu-kan.cn/_posts/2020-02-22-jekyll-theme-WuK/
 ---
