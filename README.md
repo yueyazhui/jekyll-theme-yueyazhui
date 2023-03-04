@@ -2,9 +2,9 @@
 
 感谢使用我的博客主题，下面跟随一些简单操作快速生成你的站点/文档/展示页面吧~无需命令行~
 
-[在 Github 上阅读此页](https://github.com/wu-kan/jekyll-theme-WuK)
+[在 Github 上阅读此页](https://github.com/wu-kan/jekyll-theme-yueyazhui)
 
-![License](https://img.shields.io/github/license/wu-kan/jekyll-theme-WuK)![commit-activity](https://img.shields.io/github/commit-activity/m/wu-kan/jekyll-theme-WuK)![last-commit](https://img.shields.io/github/last-commit/wu-kan/jekyll-theme-WuK)![CountLanguage](https://img.shields.io/github/languages/count/wu-kan/jekyll-theme-WuK)![TopLanguage](https://img.shields.io/github/languages/top/wu-kan/jekyll-theme-WuK)![CodeSize](https://img.shields.io/github/languages/code-size/wu-kan/jekyll-theme-WuK)![RepoSize](https://img.shields.io/github/repo-size/wu-kan/jekyll-theme-WuK)![Downloads](https://img.shields.io/github/downloads/wu-kan/jekyll-theme-WuK/total)![Watchers](https://img.shields.io/github/watchers/wu-kan/jekyll-theme-WuK)![contributors](https://img.shields.io/github/contributors-anon/wu-kan/jekyll-theme-WuK)![Release](https://img.shields.io/github/v/release/wu-kan/jekyll-theme-WuK)![release-date](https://img.shields.io/github/release-date/wu-kan/jekyll-theme-WuK)
+![License](https://img.shields.io/github/license/wu-kan/jekyll-theme-yueyazhui)![commit-activity](https://img.shields.io/github/commit-activity/m/wu-kan/jekyll-theme-yueyazhui)![last-commit](https://img.shields.io/github/last-commit/wu-kan/jekyll-theme-yueyazhui)![CountLanguage](https://img.shields.io/github/languages/count/wu-kan/jekyll-theme-yueyazhui)![TopLanguage](https://img.shields.io/github/languages/top/wu-kan/jekyll-theme-yueyazhui)![CodeSize](https://img.shields.io/github/languages/code-size/wu-kan/jekyll-theme-yueyazhui)![RepoSize](https://img.shields.io/github/repo-size/wu-kan/jekyll-theme-yueyazhui)![Downloads](https://img.shields.io/github/downloads/wu-kan/jekyll-theme-yueyazhui/total)![Watchers](https://img.shields.io/github/watchers/wu-kan/jekyll-theme-yueyazhui)![contributors](https://img.shields.io/github/contributors-anon/wu-kan/jekyll-theme-yueyazhui)![Release](https://img.shields.io/github/v/release/wu-kan/jekyll-theme-yueyazhui)![release-date](https://img.shields.io/github/release-date/wu-kan/jekyll-theme-yueyazhui)
 
 <!-- .slide vertical=true -->
 
@@ -112,7 +112,7 @@
 
 <!-- .slide vertical=true -->
 
-![Demo](https://wu-kan.github.io/jekyll-theme-WuK/screenshot.png)
+![Demo](https://wu-kan.github.io/jekyll-theme-yueyazhui/screenshot.png)
 
 <!-- .slide -->
 
@@ -166,7 +166,7 @@
 
 <!-- .slide vertical=true -->
 
-向你的 markdown 文件中插入水平页面分隔符和垂直页面分隔符（可自定义），即可快速开始使用啦！可以以[本篇文档](https://github.com/wu-kan/jekyll-theme-WuK/blob/master/README.md)作为使用示例。
+向你的 markdown 文件中插入水平页面分隔符和垂直页面分隔符（可自定义），即可快速开始使用啦！可以以[本篇文档](https://github.com/wu-kan/jekyll-theme-yueyazhui/blob/master/README.md)作为使用示例。
 
 推荐的分隔符是![垂直标签](data:image/webp;base64,UklGRswEAABXRUJQVlA4IMAEAABQHwCdASrAASAAPsVQo0unpKMhtJMt+PAYiWkAFsxLa9e8Eh/E96cqAGmyaFhk0Q5inYLCsACybyvNmNBBvQcWVFDythsQZJBVxehBlMwh1yaCph3TT2mmXBYK4xTe1NQkAXYTUqlqw5axNWj96M5T+rkKO1ITOC/HXVhXDuBiZLLWebQVjzeuOZZbVNTlj1mUAthhmVBOEZyvWrJ8MacmBcu/R1nhZXOFxgJcjRk0JUNUxVxkcJKLugO7TzsHe/ypmIXUjZkQM2B75gv0R2Il+croGEtWa9KC3jCQ50RDOiQz2gtg3d5JDES2HqfZoVXHDcmj31oyYgLAMsrs0kRz6oAAAP73mKTfMOCm35/b4Qk9coZRWF/gzyQ+AyJOWBfAGDv3SBErqzWPv1hFXtlNoLceJgqLqnLzOSUx7DiuK2wiJ4rUObsqOE+MT6+pGZhCQhIjAq7hVZOjFtXUAuXEvG0pwJn3iedUv/j455TijyrJJcdJMR4aqihWqaBMTcB4E2CcjQ1YdITOt7BzvuJ+ujCFC5gybqIFrv+7SeNt4xux7nEqq6ajkJwkXg4GutsosueU/0lBwh3UW/kFoOKFTWouPwbLGWdYI4WaIWshXeDv549gTc0PKD/FFeqPHd9aU++Hqu7JbmEMpa7CLPsaxQRgDGAHDfjva0DqroXr7gD7SHbIHeEEfGneh7wgYLGcN1wO6XpUnmZQSYhqvKZ3V9qh180B9n7/7ViGnOjPnLZHiR0DDUPN3WgNvLfdTtXrzTIIe4clZR4QBCJ98wGdOZEo3vv0y+I7HVPXcDzibfxpuyfoPCnOgMFmVLKMvwqIHgIWH4Yxzhv6efYiKAyOVNnQIosoOKsI/6mG1uzH9RjgDcJA7gTJvwpTq5ST0FKUdrVtY0F62jai3eqcWhQEg3Lp11W2z8+pOjpU/ALrHDFQB8eATgid4+lu9cquOn6D5jfkHAIOVSWNgW55QB3drAhCEqTZ2BCjIxzQeTTD50rZxGTSSv51QbMbOG6+OQp6X6mOuYlBPctjkYbTYITDV0ANyT/bH1ZYw0QN+qV9Z0FvgDMuixTGgm/WwRDroKqik4JL9Toro+xMQKUlbaftdxfIjkrmVDAALBD/bF26A3vTRtGP+KMgNDj2mqd9w3znrM/WQnqrtp2Dm7vLVmURPpLzofnbviwFz7LHSPwT7dz1tfOPPeJMunAM7Hl2bLMPJ53KZy9M0+ns7ylPJ5sYLNsrstwdy5/KgZi9nqhQ9rDGETCv9Jm01GiMBemXJa4EPD7VB1MCG2Ep+ibTIRNjQ/j3Q/HyNfUpwNQSJ4DEiG3ZKplHKFRdjwWz2jsVBl+S6T98wMG7WJKoOAv6UDHM1GJ814ICZRXKX8COWPCKvFJgPT+ohqrUYy2YxQvr/UUJoIRbX3xCmyL/Co484h4ADGRJ+pl9Dkv72GvAxR9Q9/lZzSNgkiess0mfv2ctlFaKnfQGhsE2g39w37DIR26xJi0rMtkey9YiaTl62hSm3uqrKSpidim0eDZJvLvHLTxHxoBOytnf9sZaUuEAC5/OAGcD86/cByTlWvPbvbnRPygoLSl8xEmg9IWpHnD/ETK2dClPiRsF+hfETqEtSAAA)和![水平标签](data:image/webp;base64,UklGRlwCAABXRUJQVlA4IFACAACQDwCdASrgACAAPpE8m0elo6KhLbVcALASCWkAEWHcpexmUsD6ZOiu5sdWJqej30kHAWtWgzm1NokVrmXtBduqdjf69Ky/YrEfEk+DW1QmKbH58l6EwOTfIUdlpA9FItaZ+aXOqRi7Lf8XoMSwIPubKewvVC8kbFKgsiWQMmHqL7KMBE8AAP79uypAcc+TWCg0wbbnBWWODDTzqFgLrrobgfk6sOqETmoC8PIIDAt2Si73oax5KbX3SwCtGFRuRBn1uMwQStgw0dWqf5biuBby+hCRVXsg1usfCXyC2TOzsYDX89EEII6pcuI+jyvREioCmAhUHo5uHUEi05r1rckaSHFG9jYaTLNpOSC2AFItW/sUZIgBsYz1EnDk0oPG0eaWfTD3p1pwNOapL3JUK52Kqqdpwi5L/UxF+qUPS+XVX5BA2AI2FjTkJXaN75DUdEQ04xq+fCz1hDcc9po5h4AJCmNGDJ+hBKvSAKeRvRzbAi/OgVFg4ZpozCToVa+MMYslTrUGCJC3goF1f379lpSUD12xat2I4lTC3UrAkcbYE8kvpy817kSb+lg4cD80TdS06oTGhQR5jhlw9m3Shctwj5MyQ9e4dnKfbvZGsjBiB/C4OS/yJT4yN6vSFq/P3DmpiG5pQYwGVZud0Sp4fQ/hK84KYIxfEfeZSTRvrrNcS83XqziGfuD2xXXkulIjKF2Wdo9SDsZ2v2owdj9PN6xprlnXo/lEUwI/dRpY0JscfYWYrWtPdn4aznDTfsXina6MeJvfZyJ+dktjvrCfSAAA)，这样可以和[vscode-markdown-preview-enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/presentation)的标记兼容，方便本地预览。
 
@@ -174,9 +174,9 @@
 
 如果你希望使用它来渲染主页之外的页面，可以在你的 markdown 的 yaml 头中设置`layout: home`即可！当然，如果你不希望使用它来渲染主页，你也可以将主页的 layout 设置成其他的。
 
-想针对特定页面默认开启侧边栏？在 yaml 头中设置`jekyll-theme-WuK: default: sidebar: open: true`即可！
+想针对特定页面默认开启侧边栏？在 yaml 头中设置`jekyll-theme-yueyazhui: default: sidebar: open: true`即可！
 
-想针对特定页面隐藏侧边栏？在 yaml 头中设置`jekyll-theme-WuK: default: sidebar: disable: true`即可！会覆盖`sidebar: open`的设置。
+想针对特定页面隐藏侧边栏？在 yaml 头中设置`jekyll-theme-yueyazhui: default: sidebar: disable: true`即可！会覆盖`sidebar: open`的设置。
 
 <!-- .slide vertical=true -->
 
@@ -216,7 +216,7 @@
 
 除特别声明或转载外，所有博文采用[署名-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)协议进行许可。
 
-博客基于[MIT License](https://github.com/wu-kan/jekyll-theme-WuK/blob/master/LICENSE)开源于[GitHub](https://github.com/wu-kan/jekyll-theme-WuK)。
+博客基于[MIT License](https://github.com/wu-kan/jekyll-theme-yueyazhui/blob/master/LICENSE)开源于[GitHub](https://github.com/wu-kan/jekyll-theme-yueyazhui)。
 
 <!-- .slide -->
 
@@ -377,7 +377,7 @@ Live2D Model 来自于[imuncle/live2d](https://github.com/imuncle/live2d)和[xia
 
 - [poole/lanyon](https://github.com/poole/lanyon) 更新至 v1.1.0
 - Live2D 增加变换主题按钮
-- page 中用到的变量移动到`jekyll-theme-WuK`命名空间下
+- page 中用到的变量移动到`jekyll-theme-yueyazhui`命名空间下
 
 <!-- .slide vertical=true -->
 
