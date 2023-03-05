@@ -5,7 +5,7 @@ layout: comments
   <span class="post-date">
     {% if page.jekyll-theme-yueyazhui.post.date.enable %}
     {{ page.jekyll-theme-yueyazhui.post.date.prepend }}
-    {{ page.date | date_to_string }}
+    {{ page.date | date: "%Y-%m-%d" }}
     {% endif %}
     {% if page.jekyll-theme-yueyazhui.post.wordcount.enable %}
     {{ page.jekyll-theme-yueyazhui.post.wordcount.prepend }}
@@ -40,7 +40,7 @@ layout: comments
       <h3>
         <a href="{{ site.baseurl }}{{ post.url }}">
           {{ post.title }}
-          <small>{{ post.date | date_to_string }}</small>
+          <small>{{ post.date | date: "%Y-%m-%d" }}</small>
         </a>
       </h3>
     </li>
